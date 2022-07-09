@@ -1,0 +1,126 @@
+
+body, html {
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}.btn{
+    margin-top: 2%;
+    color: #fff;
+background-color: #007bff;
+border-color: #007bff;
+width: 10%;
+height: 100%;
+display: inline-block;
+font-weight: 400;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+padding: .375rem .75rem;
+font-size: 1rem;
+line-height: 1.5;
+border-radius: .25rem;
+transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+
+* {
+  box-sizing: border-box;
+}.contact{
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    margin-top: 10%;
+    font-size: 130%;
+    margin-left:45%;
+}.lk{
+    text-decoration: none;
+    color: #f1f1f1;
+    margin-left: 5%;
+    
+}
+.mail{
+   
+    margin-left: -5%;
+}
+.ld{
+    margin-left: -4%;
+    margin-top: 2%;
+}
+.git{
+    margin-top: 2%;
+    margin-left: -5%;
+}
+.bg-image {
+  /* The image used */
+  background-image: url("th.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+  height: 70%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}.lang{
+    margin-top: 5%;
+    font-size: 80%;
+}.proj{
+    color: #f1f1f1;
+    font-family: 'Montserrat';
+    margin-top: 20%;
+    margin-left:10%;
+}.link{
+    color: #f1f1f1;
+    font-family: 'Montserrat';  
+    text-decoration: none;
+    font-size: 70%;
+}.mr{
+    color: #f1f1f1;
+    font-family: 'Montserrat';  
+    margin-top: 5%;
+    font-size: 130%;
+}
+.intro{
+    color: white;
+    margin-top: -35%;
+    font-size: 130%;
+    font-family: 'Montserrat';
+    margin-left: 10%;
+}
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 0px solid #f1f1f1;
+  position: absolute;
+  top: 35%;
+  font-family:'Montserrat';
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}.imag{
+    margin-left: 60%;
+    
+}
+.bio{
+    margin-top:20%;
+}
