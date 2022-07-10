@@ -33,10 +33,10 @@ body, html {
     color: #fff;
 background-color: #007bff;
 border-color: #007bff;
-width: 10%;
+width: 35%;
 height: 100%;
 display: inline-block;
-font-weight: 400;
+
 text-align: center;
 white-space: nowrap;
 vertical-align: middle;
@@ -149,6 +149,7 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
   text-align: center;
 }.imag{
     margin-left: 60%;
+    width:30%;
     
 }
 .bio{
