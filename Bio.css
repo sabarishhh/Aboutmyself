@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap'); */
 @import url("micons/micons.css");
 body, html {
   height: 100%;
@@ -155,13 +155,13 @@ text-justify:values;
 .hw{
     color:#ff0000;
     margin-left: 45%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 10%;
     font-size: 200%;
 }.name{
     color:#f1f1f1;
     margin-left: 40%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 5%;
     font-size: 300%;
 }.quot{
@@ -175,13 +175,13 @@ text-justify:values;
     .hw{
         color:#ff0000;
         margin-left: 40%;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Montserrat', sans-serif;
         margin-top: 20%;
         font-size: 100%;
     }.name{
         color:#f1f1f1;
         margin-left: 23%;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Montserrat', sans-serif;
         margin-top: -4%;
         font-size: 200%;
     }.quot{
@@ -303,7 +303,7 @@ text-justify:values;
   @media screen and (max-width: 375px){
   .abt{
       color: #f1f1f1;
-      font-family: 'Poppins';
+      font-family: 'Montserrat';
       font-size: 50%;
       margin-top: -40%;
   }
