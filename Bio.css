@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 @import url("micons/micons.css");
 body, html {
   height: 100%;
@@ -133,7 +133,7 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
   width: 80%;
   padding: 20px;
   text-align: center;
-} @media screen and (max-width: 375px){
+} @media screen and (max-width: 1000px){
     .imag{
         margin-top: 50%;
         margin-left: 60%;
@@ -155,13 +155,13 @@ text-justify:values;
 .hw{
     color:#ff0000;
     margin-left: 45%;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-top: 10%;
     font-size: 200%;
 }.name{
     color:#f1f1f1;
     margin-left: 40%;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-top: 5%;
     font-size: 300%;
 }.quot{
@@ -171,17 +171,17 @@ text-justify:values;
     margin-top: -2%;
     font-size: 100%;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 1000px) {
     .hw{
         color:#ff0000;
         margin-left: 40%;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Poppins', sans-serif;
         margin-top: 20%;
         font-size: 100%;
     }.name{
         color:#f1f1f1;
         margin-left: 23%;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Poppins', sans-serif;
         margin-top: -4%;
         font-size: 200%;
     }.quot{
@@ -192,7 +192,7 @@ text-justify:values;
         font-size: 60%;
     }
   }
-  @media screen and (max-width: 375px){
+  @media screen and (max-width: 1000px){
     .container {
         width: 300px;
         height: 300px;
@@ -300,10 +300,10 @@ text-justify:values;
     font-size: 15px;
     font-weight: 100;
   }
-  @media screen and (max-width: 375px){
+  @media screen and (max-width: 1000px){
   .abt{
       color: #f1f1f1;
-      font-family: 'Montserrat';
+      font-family: 'Poppins';
       font-size: 50%;
       margin-top: -40%;
   }
@@ -342,7 +342,7 @@ text-justify:values;
   text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4);
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 1000px){
   .wrappers {
     display: flex;
     justify-content: center;
