@@ -226,7 +226,7 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
     margin-left: 80%;
     max-width: 35%;
     height: auto;
-    filter: drop-shadow(3px 2px 0px rgb(255, 0, 0)));
+    filter: drop-shadow(3px 2px 0px rgb(255, 0, 0));
     
     
 }

@@ -1,2 +1,2 @@
 # sabarishhh.github.io
-Portfolio website in HTML and CSS
+Simple Portfolio website in HTML and CSS
